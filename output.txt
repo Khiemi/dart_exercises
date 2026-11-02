@@ -1,0 +1,8 @@
+============================
+	Order Summary	
+============================
+Customer Name: Kheimi
+Total Items: 5
+Price: 100.0
+Student Discount Active: true
+Overall Total: 450.0

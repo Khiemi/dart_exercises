@@ -2,7 +2,7 @@
 
 ## Student Details
 * **Name:** Kimberly A. Kismundo
-* **Section:** [Insert Your Section / Year Here]
+* **Section:** [BSIT - 3.4]
 
 ## Scenario Description
 This Dart application calculates an order subtotal and applies a student discount using explicit data types, arithmetic operations, and comparison logic.
